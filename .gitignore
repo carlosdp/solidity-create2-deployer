@@ -5,7 +5,7 @@ node_modules
 parity
 
 node_modules
-dist
+yarn.lock
 
 #Buidler files
 cache
